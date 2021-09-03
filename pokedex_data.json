@@ -1,0 +1,82 @@
+[
+    {
+      "id": 0,
+      "pokedexNo": "#001",
+      "title": "Balbasaur",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
+      "build": "Grass , Poison"
+    },
+    {
+      "id": 1,
+      "pokedexNo": "#002",
+      "title": "Ivysaur",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png",
+        "build": "Grass , Poison"
+    },
+    {
+      "id": 2,
+      "pokedexNo": "#003",
+      "title": "Venusaur",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png",
+        "build":"Grass , Poison"
+    },
+    {
+      "id": 3,
+      "pokedexNo": "#004",
+      "title": "Charmander",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
+        "build": "Fire"
+    },
+    {
+      "id": 4,
+      "pokedexNo": "#005",
+      "title": "Charmeleon",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png",
+        "build": "Fire"
+    },
+    {
+      "id": 5,
+      "pokedexNo": "#006",
+      "title": "Charizard",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png",
+        "build":"Fire , Flying"
+    },
+    {
+      "id": 6,
+      "pokedexNo": "#007",
+      "title": "Squirtle",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png",
+        "build": "Water"
+    },
+    {
+      "id": 7,
+      "pokedexNo": "#008",
+      "title": "Wartortle",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png",
+        "build": "Water"
+    },
+    {
+      "id": 8,
+      "pokedexNo": "#009",
+      "title": "Blastoise",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png",
+        "build": "Water"
+    },
+    {
+      "id": 9,
+      "pokedexNo": "#010",
+      "title": "Caterpie",
+      "imgURL":
+        "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png",
+        "build": "Bug"
+    }
+  ]
